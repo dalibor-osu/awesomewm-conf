@@ -21,9 +21,9 @@ local tonumber = tonumber
 local function factory(args)
     local alsabar = {
         colors = {
-            background = "#11111b",
-            mute       = "#f38ba8",
-            unmute     = "#a6e3a1"
+            background = "#000000",
+            mute       = "#f20119",
+            unmute     = "#1c5f41"
         },
 
         _current_level = 0,
