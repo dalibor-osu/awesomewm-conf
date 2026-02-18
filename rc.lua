@@ -52,7 +52,7 @@ autorunApps =
     "chromium",
     "discord",
     "unclutter",
-    "easyeffects -w"
+    "easyeffects -w",
 }
 
 if autorun then
